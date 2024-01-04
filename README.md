@@ -3,8 +3,6 @@
 Hey,
 Thank you for visiting my github.
 
-## 📫 Let's Connect
-
 To read about my background, projects, research fields:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/sohrabnamazinia/)
